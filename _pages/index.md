@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Einius Portfolio"
 layout: splash
 permalink: /
 header:
