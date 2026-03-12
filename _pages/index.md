@@ -19,18 +19,18 @@ feature_row:
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
     title: "Will of the Wool"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Will of the Wool is a 2D platformer that was developed alongside other students."
   - image_path: /assets/images/2D.png
     alt: "Picture of 2D game gameplay"
     title: "Dark Dungeon"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Dark Dungeon is a 2D platformer made for a 2D submission."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Mill.png
     alt: "Screenshot taken from 3D Game"
     title: "Murder at the Mill"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Murder at the Mill is a 3D concept made for my 3D game class."
 ---
 
 {% include feature_row id="intro" type="center" %}
