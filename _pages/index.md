@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Mill.png
+  overlay_image: /assets/images/Mill2.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1zz-SZ5EmkBAXU3niEcbfEGurkSxko2Iv/view?usp=sharing"
