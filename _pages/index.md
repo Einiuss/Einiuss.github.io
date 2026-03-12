@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "Einius' Portfolio."
+excerpt: "Game Design and Development Student"
 intro: 
   - excerpt: 'Find out more....'
 feature_row:
