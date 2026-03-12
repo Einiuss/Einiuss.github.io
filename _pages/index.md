@@ -27,7 +27,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Mill.png
     alt: "Screenshot taken from 3D Game"
     title: "Murder at the Mill"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
