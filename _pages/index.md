@@ -17,19 +17,19 @@ intro:
   - excerpt: 'You can also add text like this....'
 feature_row:
   - image_path: /assets/images/Eagle.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "Will of the Wool gameplay: Eagle"
+    title: "Will of the Wool"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/2D.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+    alt: "Picture of 2D game gameplay"
+    title: "Dark Dungeon"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
+    alt: "Screenshot taken from 3D Game"
+    title: "Murder at the Mill"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
