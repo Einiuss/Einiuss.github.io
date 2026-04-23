@@ -7,8 +7,8 @@ main:
     children:
       - title: "Will of the Wool"
         url: /projects/will-of-the-wool/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Murder at the Mill"
+        url: /projects/murder-at-the-mill/
   - title: "Contact Me"
     url: /contactme/
  
