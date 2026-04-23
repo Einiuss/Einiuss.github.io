@@ -1,9 +1,0 @@
----
-title: "Pages"
-layout: single
-permalink: /contactme/
-sidebar:
-  title: "Page Templates"
-  nav:
-    - pages
----
