@@ -4,7 +4,7 @@ layout: single
 permalink: /contactme/
 ---
 {% include google-form
-  title="Contact Me"
+  title=""
   src="https://forms.gle/XsbApFoRjn7r24jy6"
   height="800"
 %}
