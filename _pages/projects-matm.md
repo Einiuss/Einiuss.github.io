@@ -1,7 +1,7 @@
 ---
-title: "Will of the Wool"
+title: "Murder at the Mill"
 layout: single
-permalink: /projects/will-of-the-wool/
+permalink: /projects/murder-at-the-mill/
 sidebar:
   title: "Projects"
   nav:
