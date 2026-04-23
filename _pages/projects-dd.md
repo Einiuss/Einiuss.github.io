@@ -6,4 +6,5 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+
 ---
