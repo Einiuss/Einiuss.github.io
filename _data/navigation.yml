@@ -2,6 +2,7 @@
 main:
   - title: "Home"
     url: /
+    <! --
   - title: "Projects"
     url: /projects/
     children:
@@ -18,6 +19,7 @@ main:
         url: /pages/single/
       - title: "Splash Layout"
         url: /pages/splash/
+        -->
   - title: "Contact Me"
     url: /components/
  
