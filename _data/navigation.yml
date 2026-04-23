@@ -16,7 +16,7 @@ main:
 # Sidebar menu for the Projects page
 projects:
   - title: "Will of the Wool"
-    url: /projects/Will of the Wool/
+    url: /projects/will-of-the-wool/
   - title: "Murder at the Mill"
     url: /projects/murder-at-the-mill/
 
