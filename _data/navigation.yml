@@ -5,8 +5,8 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
+      - title: "Will of the Wool"
+        url: /projects/will-of-the-wool/
       - title: "Capstone"
         url: /projects/capstone/
   - title: "Contact Me"
