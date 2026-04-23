@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
+title: "Murder at the Mill"
 layout: single
-permalink: /projects/capstone/
+permalink: /projects/murder-at-the-mill/
 sidebar:
   title: "Projects"
   nav:
