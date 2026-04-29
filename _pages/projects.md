@@ -11,7 +11,12 @@ feature_row:
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
     title: "Will of the Wool"
-    excerpt: "Will of the Wool is a 2D platformer that was developed alongside other students."
+  - image_path: /assets/images/2D.png
+    alt: "Picture of 2D game gameplay"
+    title: "Dark Dungeon"
+- image_path: /assets/images/2D.png
+    alt: "Picture of 2D game gameplay"
+    title: "Dark Dungeon"
     
 ---
 
