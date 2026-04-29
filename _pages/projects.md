@@ -6,6 +6,13 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+
+feature_row:
+  - image_path: /assets/images/Eagle.png
+    alt: "Will of the Wool gameplay: Eagle"
+    title: "Will of the Wool"
+    excerpt: "Will of the Wool is a 2D platformer that was developed alongside other students."
+    
 ---
 
 Welcome to the projects page. This is where all my projects can be viewed in more detail.
@@ -13,6 +20,7 @@ Welcome to the projects page. This is where all my projects can be viewed in mor
 Here are some of my projects I've been working on!
 
 
+{% include feature_row %}
 
 
 
