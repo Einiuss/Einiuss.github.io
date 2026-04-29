@@ -41,6 +41,6 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-**My Most Recent Project Here.**
+<p style="font-size: 30px;"><strong>My Most Recent Project Here.</strong></p>
 {% include video id="5-Yo80GlGDs" provider="youtube" %}
 
