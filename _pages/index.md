@@ -1,4 +1,4 @@
----
+e---
 title: "Einius Portfolio"
 layout: splash
 permalink: /
@@ -13,7 +13,6 @@ header:
 
 
 excerpt: "Game Design and Development Student"
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 feature_row:
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
@@ -27,10 +26,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Mill.png
-    alt: "Screenshot taken from 3D Game"
+    alt: "Screenshot taken from 3D Game"e
     title: "Murder at the Mill"
     excerpt: "Murder at the Mill is a 3D concept made for my 3D game class."
 ---
+
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 
 {% include feature_row id="intro" type="center" %}
 
