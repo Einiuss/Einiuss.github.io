@@ -21,7 +21,7 @@ feature_row:
     alt: "Picture of 2D game gameplay"
     title: "Dark Dungeon"
     excerpt: "Dark Dungeon is a 2D platformer made for a 2D submission."
-    url: "#test-link"
+    url: "/projects/dark-dungeon/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Mill.png
