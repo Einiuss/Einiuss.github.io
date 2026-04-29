@@ -13,8 +13,6 @@ header:
 
 
 excerpt: "Game Design and Development Student"
-intro: 
-  - excerpt: 'Find out more....'
 feature_row:
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
