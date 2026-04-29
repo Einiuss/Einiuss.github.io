@@ -17,6 +17,9 @@ feature_row:
     alt: "Will of the Wool gameplay: Eagle"
     title: "Will of the Wool"
     excerpt: "Will of the Wool is a 2D platformer that was developed alongside other students."
+    url: "/projects/Will-of-the-Wool/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/2D.png
     alt: "Picture of 2D game gameplay"
     title: "Dark Dungeon"
@@ -28,6 +31,9 @@ feature_row:
     alt: "Screenshot taken from 3D Game"
     title: "Murder at the Mill"
     excerpt: "Murder at the Mill is a 3D concept made for my 3D game class."
+    url: "/projects/Murder-at-the-Mill/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 
