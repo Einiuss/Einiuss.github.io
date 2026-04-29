@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Mill.png
-    alt: "Screenshot taken from 3D Game"e
+    alt: "Screenshot taken from 3D Game"
     title: "Murder at the Mill"
     excerpt: "Murder at the Mill is a 3D concept made for my 3D game class."
 ---
