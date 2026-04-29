@@ -11,8 +11,9 @@ header:
       url: "https://drive.google.com/file/d/1zz-SZ5EmkBAXU3niEcbfEGurkSxko2Iv/view?usp=sharing"
       target: "_blank"
 
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+
 excerpt: "Game Design and Development Student"
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 feature_row:
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
