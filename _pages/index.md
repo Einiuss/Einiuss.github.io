@@ -1,4 +1,4 @@
-e---
+---
 title: "Einius Portfolio"
 layout: splash
 permalink: /
