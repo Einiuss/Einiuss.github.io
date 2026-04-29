@@ -30,9 +30,10 @@ feature_row:
     excerpt: "Murder at the Mill is a 3D concept made for my 3D game class."
 ---
 
-{% include video id="5-Yo80GlGDs" provider="youtube" %}
+
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+{% include video id="5-Yo80GlGDs" provider="youtube" %}
 
