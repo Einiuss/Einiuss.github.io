@@ -20,6 +20,7 @@ feature_row:
 ---
 
 Welcome to the projects page. This is where all my projects can be viewed in more detail.
+Use the sidebar to check them out!
 
 Here are some of my projects I've been working on!
 
