@@ -20,8 +20,8 @@ feature_row:
     url: "/projects/will-of-the-wool/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2D.png
-    alt: "Picture of 2D game gameplay"
+  - image_path: /assets/images/Intro.PNG
+    alt: "Picture of 2D main menu"
     title: "Dark Dungeon"
     excerpt: "Dark Dungeon is a 2D platformer made for a 2D submission."
     url: "/projects/dark-dungeon/"
