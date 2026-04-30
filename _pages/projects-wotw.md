@@ -14,9 +14,6 @@ gallery_wotw:
   - url: /assets/images/Fire.PNG
     image_path: /assets/images/Fire.PNG
     alt: "Sheep killing eagle with fire"
-  - url: /assets/images/MagnetBox.PNG
-    image_path: /assets/images/MagnetBox.PNG
-    alt: "Player riding up magnet box to reach top."
 
 gallery_wotw2:
   - url: /assets/images/MagnetBox.PNG
