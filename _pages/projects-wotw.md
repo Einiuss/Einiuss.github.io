@@ -8,9 +8,15 @@ sidebar:
     - projects
 gallery_wotw:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/Wotw.PNG
-    image_path: /assets/images/Wotw.PNG
-    alt: "Grassy Level"
+  - url: /assets/images/SpikeBall.PNG
+    image_path: /assets/images/SpikeBall.PNG
+    alt: "Sheep Running from spike ball."
+  - url: /assets/images/Fire.PNG
+    image_path: /assets/images/Fire.PNG
+    alt: "Sheep killing eagle with fire"
+  - url: /assets/images/MagnetBox.PNG
+    image_path: /assets/images/MagnetBox.PNG
+    alt: "Player riding up magnet box to reach top."
 ---
 
 
