@@ -22,7 +22,7 @@ gallery_wotw2:
   - url: /assets/images/MagnetBox.PNG
     image_path: /assets/images/MagnetBox.PNG
     alt: "Player riding up magnet box to reach top."
-- url: /assets/images/Crab.PNG
+  - url: /assets/images/Crab.PNG
     image_path: /assets/images/Crab.PNG
     alt: "Player avoiding crab in desert."
     
