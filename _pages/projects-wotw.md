@@ -14,7 +14,7 @@ gallery_wotw:
     title: "Core loop"
     caption: "Core loop"
 
-
+---
 
 
 Will of the Wool is the game I helped make alongside three other people in my first year of university. I was tasked with working on mainly programming and project management.
