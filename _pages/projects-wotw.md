@@ -8,8 +8,8 @@ sidebar:
     - projects
 gallery_wotw:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/SpikeBall.PNG
-    image_path: /assets/images/SpikeBall.PNG
+  - url: /assets/images/Spikeball.PNG
+    image_path: /assets/images/Spikeball.PNG
     alt: "Sheep Running from spike ball."
   - url: /assets/images/Fire.PNG
     image_path: /assets/images/Fire.PNG
