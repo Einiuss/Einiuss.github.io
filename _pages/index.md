@@ -13,8 +13,8 @@ header:
       
 excerpt: "Game Design and Development Student"
 feature_row:
-  - image_path: /assets/images/Eagle.png
-    alt: "Will of the Wool gameplay: Eagle"
+  - image_path: /assets/images/Wotw.png
+    alt: "Will of the Wool gameplay: Grass Area"
     title: "Will of the Wool"
     excerpt: "Will of the Wool is a 2D platformer that was developed alongside other students."
     url: "/projects/will-of-the-wool/"
