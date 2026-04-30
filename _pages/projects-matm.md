@@ -8,20 +8,20 @@ sidebar:
     - projects
 gallery_dd:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/Intro.PNG
-    image_path: /assets/images/Intro.PNG
-    alt: "Intro to game."
-  - url: /assets/images/Spikeblood.PNG
-    image_path: /assets/images/Spikeblood.PNG
-    alt: "Player after getting hit by spike."
+  - url: /assets/images/Mill.PNG
+    image_path: /assets/images/Mill.PNG
+    alt: "Picture of windmill."
+  - url: /assets/images/Park.PNG
+    image_path: /assets/images/Park.PNG
+    alt: "Playpark featured in game."
 
 gallery_dd2:
-  - url: /assets/images/Coin.PNG
-    image_path: /assets/images/Coin.PNG
-    alt: "Player at one of the blue coins"
-  - url: /assets/images/Door.PNG
-    image_path: /assets/images/Door.PNG
-    alt: "Player at the final door"
+  - url: /assets/images/Town.PNG
+    image_path: /assets/images/Town.PNG
+    alt: "Shot of the town."
+  - url: /assets/images/Farm.PNG
+    image_path: /assets/images/Farm.PNG
+    alt: "Farmland featured in game"
 
 ---
 This game features a small town you can walk about with a play area and a farmland area.
