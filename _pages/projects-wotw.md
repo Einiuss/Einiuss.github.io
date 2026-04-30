@@ -26,5 +26,5 @@ sidebar:
     frameborder="0" allowfullscreen></iframe>
 </div>
 
-</div>
+
 Working in a team taught me a lot about where I thrive and where I struggle. This has helped me focus on areas that I lack in the improve my overall ability as a game developer.
