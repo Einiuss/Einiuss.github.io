@@ -6,14 +6,14 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-gallery_gwotw:
+gallery_wotw:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/Crab.PNG
-    image_path: /assets/images/Crab.PNG
-    alt: "Crab in WotW desert"
+  - url: /assets/images/Wotw.PNG
+    image_path: /assets/images/Wotw.PNG
+    alt: "Grassy Level"
     title: "Core loop"
     caption: "Core loop"
----
+
 
 
 
