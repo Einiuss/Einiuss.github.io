@@ -11,9 +11,6 @@ gallery_wotw:
   - url: /assets/images/Wotw.PNG
     image_path: /assets/images/Wotw.PNG
     alt: "Grassy Level"
-    title: "Core loop"
-    caption: "Core loop"
-
 ---
 
 
