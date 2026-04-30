@@ -30,7 +30,7 @@ Will of the Wool is the game I helped make alongside three other people in my fi
 {% include gallery id="gallery_wotw" layout="half" thumb_height="160px" %}
 Working in a team taught me a lot about where I thrive and where I struggle. This has helped me focus on areas that I lack in the improve my overall ability as a game developer.
 {% include gallery id="gallery_wotw2" layout="half" thumb_height="160px" %}
-{% include feature_row %}
+
 {% include video id="5-Yo80GlGDs" provider="youtube" %}
 
 This is my first time working in a team to make a game and it has definitely shown me that teamwork is essential in this industry.
