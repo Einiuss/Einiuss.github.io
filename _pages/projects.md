@@ -14,9 +14,9 @@ feature_row:
   - image_path: /assets/images/Intro.PNG
     alt: "2D Game Main Menu"
     title: "Dark Dungeon"
-  - image_path: /assets/images/Eagle.png
-    alt: "Will of the Wool gameplay: Eagle"
-    title: "Will of the Wool"
+  - image_path: /assets/images/Mill.png
+    alt: "3D Game: Mill"
+    title: "Murder at the Mill"
 ---
 
 Welcome to the projects page. This is where all my projects can be viewed in more detail.
