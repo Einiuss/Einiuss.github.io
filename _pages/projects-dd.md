@@ -17,12 +17,12 @@ gallery_dd:
     alt: "Player after getting hit by spike."
 
 gallery_dd2:
-  - url: /assets/images/MagnetBox.PNG
-    image_path: /assets/images/MagnetBox.PNG
-    alt: "Player riding up magnet box to reach top."
-  - url: /assets/images/Crab.PNG
-    image_path: /assets/images/Crab.PNG
-    alt: "Player avoiding crab in desert."
+  - url: /assets/images/Coin.PNG
+    image_path: /assets/images/Coin.PNG
+    alt: "Player at one of the blue coins"
+  - url: /assets/images/Door.PNG
+    image_path: /assets/images/Door.PNG
+    alt: "Player at the final door"
 
 ---
 This is the first game I've ever made. This game was for my first semester of University
