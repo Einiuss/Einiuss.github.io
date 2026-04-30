@@ -26,9 +26,9 @@ gallery_dd2:
 
 ---
 There are 4 sections to this game. Each section has a unique challenge for the player to overcome. At the end of each section there is a blue coin, once all 4 blue coins are collected the player can proceed.
-{% include gallery id="gallery_dd" layout="half" thumb_height="150px" %}
+{% include gallery id="gallery_dd" layout="half" thumb_height="160px" %}
 This is the first game I've ever made. This game was for my first semester of University
 During the development of this game I got introduced to Unity and other applications like LibreSprite for pixel art.
-{% include gallery id="gallery_dd2" layout="half" thumb_height="150px" %}
+{% include gallery id="gallery_dd2" layout="half" thumb_height="160px" %}
 
 {% include video id="i5kSDcxa_yk" provider="youtube" %}
