@@ -21,9 +21,9 @@ sidebar:
 
   <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
-    <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-        {% include video id="5-Yo80G1GDs" provider="youtube" %}
-    </div>
+    <iframe width="100%" height="315" 
+    src="https://www.youtube.com/embed/5-Yo80G1GDs" 
+    frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
