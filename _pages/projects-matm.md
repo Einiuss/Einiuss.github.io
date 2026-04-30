@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-gallery_dd:
+gallery_matm:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/Mill.PNG
     image_path: /assets/images/Mill.PNG
@@ -15,7 +15,7 @@ gallery_dd:
     image_path: /assets/images/Park.PNG
     alt: "Playpark featured in game."
 
-gallery_dd2:
+gallery_matm2:
   - url: /assets/images/Town.PNG
     image_path: /assets/images/Town.PNG
     alt: "Shot of the town."
