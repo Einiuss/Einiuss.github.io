@@ -11,9 +11,9 @@ feature_row:
   - image_path: /assets/images/Crab.PNG
     alt: "Will of the Wool gameplay: Crab"
     title: "Will of the Wool"
-  - image_path: /assets/images/Eagle.png
-    alt: "Will of the Wool gameplay: Eagle"
-    title: "Will of the Wool"
+  - image_path: /assets/images/Intro.PNG
+    alt: "2D Game Main Menu"
+    title: "Dark Dungeon"
   - image_path: /assets/images/Eagle.png
     alt: "Will of the Wool gameplay: Eagle"
     title: "Will of the Wool"
