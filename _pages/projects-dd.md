@@ -27,8 +27,8 @@ gallery_dd2:
 ---
 This is the first game I've ever made. This game was for my first semester of University
 During the development of this game I got introduced to Unity and other applications like LibreSprite for pixel art.
-{% include gallery id="gallery_dd" layout="half" thumb_height="140px" %}
+{% include gallery id="gallery_dd" layout="half" thumb_height="150px" %}
 Working in a team taught me a lot about where I thrive and where I struggle. This has helped me focus on areas that I lack in the improve my overall ability as a game developer.
-{% include gallery id="gallery_dd2" layout="half" thumb_height="140px" %}
+{% include gallery id="gallery_dd2" layout="half" thumb_height="150px" %}
 
 {% include video id="i5kSDcxa_yk" provider="youtube" %}
