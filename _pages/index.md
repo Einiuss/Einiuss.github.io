@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/Intro.PNG
     alt: "Picture of 2D main menu"
     title: "Dark Dungeon"
-    excerpt: "Dark Dungeon is a 2D platformer made for a 2D submission."
+    excerpt: "This is the 2D game I submitted for the first semester of my first year university course."
     url: "/projects/dark-dungeon/"
     btn_label: "Read More"
     btn_class: "btn--primary"
