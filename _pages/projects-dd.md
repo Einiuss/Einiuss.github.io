@@ -32,3 +32,6 @@ During the development of this game I got introduced to Unity and other applicat
 {% include gallery id="gallery_dd2" layout="half" thumb_height="160px" %}
 
 {% include video id="i5kSDcxa_yk" provider="youtube" %}
+
+I learned a lot when programming this game and realised there are more aspects to making games than just the programming of it.
+Making this game made me appreciate game developement much more.
